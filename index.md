@@ -2,19 +2,27 @@
 
 ## Programmer, Avid AI and Networking Enthusiast, Wannabe Chef
 
-> [!IMPORTANT]
+> [!Note]
 > This site is an ongoing effort for CSE 110 Lab 1. Please check back for updates!
 
 Thank you for coming to my website! I am currently a **2nd Year** Student studying at the _University of California, San Diego_ pursuing a degree in **Computer Science**. I am passionate about programming, AI, and networking. I am also a huge fan of cooking and love to experiment with new recipes. I am always looking for new opportunities to learn and grow, so feel free to reach out to me!
 
 ## Table of Contents
 
-1. [Self-Profile](#self-profile)
-2. [Coursework](#coursework)
-3. [Clubs + Extracurriculars](#clubs--extracurriculars)
-4. [Snippets](#snippets)
-5. [To do](#to-do)
-6. [Random](#random)
+- [Samvrit Srinath](#samvrit-srinath)
+  - [Programmer, Avid AI and Networking Enthusiast, Wannabe Chef](#programmer-avid-ai-and-networking-enthusiast-wannabe-chef)
+  - [Table of Contents](#table-of-contents)
+  - [Self-Profile](#self-profile)
+  - [Coursework](#coursework)
+    - [Lower Division](#lower-division)
+    - [Upper Division](#upper-division)
+    - [Current Coursework](#current-coursework)
+  - [Clubs + Extracurriculars](#clubs--extracurriculars)
+    - [Snippets](#snippets)
+    - [To do:](#to-do)
+    - [Club List](#club-list)
+    - [Photos](#photos)
+  - [Random](#random)
 
 ## Self-Profile
 
@@ -110,7 +118,7 @@ Perhaps some tasks that Are pertinent for the lab are:
 -   [ ] Create a pull request to merge the changes into the main branch
 -   [x] Submit on Gradescope
 
-### Images
+### Club List
 
 Please take a look at some of the clubs I'm involved in!
 A list of my current clubs are:
@@ -119,10 +127,17 @@ A list of my current clubs are:
     - [CSES][^1]
     - [ACM<sub>AI</sub>][^2]
     - [TSE][^3]
-2. Non-Technical Clubs: - Triton Gaming - Hiking Club - Indian Student Association - SangamSD
-   ![CSES](Images/CSES.png)
-   ![ACMAI](Images/ACMAI.png)
-   ![TSE](Images/TSELogo.png)
+2. Non-Technical Clubs:
+    - Triton Gaming
+    - Hiking Club
+    - Indian Student Association
+    - SangamSD
+
+### Photos
+
+![CSES](Images/CSES.png)
+![ACMAI](Images/ACMAI.png)
+![TSE](Images/TSELogo.png)
 
 PS: If you ever need any cool desktop backgrounds, take a look at this link [Cool Space Backgrounds](https://unsplash.com/images/nature/outer-space), Unsplash tends to be my source of inspiration for my desktop backgrounds!
 
