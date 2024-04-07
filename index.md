@@ -2,8 +2,8 @@
 
 ## Programmer, Avid AI and Networking Enthusiast, Wannabe Chef
 
-> [!Note]
-> This site is an ongoing effort for CSE 110 Lab 1. Please check back for updates!
+<!-- [!Note]
+This site is an ongoing effort for CSE 110 Lab 1. Please check back for updates! -->
 
 Thank you for coming to my website! I am currently a **2nd Year** Student studying at the _University of California, San Diego_ pursuing a degree in **Computer Science**. I am passionate about programming, AI, and networking. I am also a huge fan of cooking and love to experiment with new recipes. I am always looking for new opportunities to learn and grow, so feel free to reach out to me!
 
@@ -124,9 +124,9 @@ Please take a look at some of the clubs I'm involved in!
 A list of my current clubs are:
 
 1. Technical Clubs:
-    - [CSES][^1]
-    - [ACM<sub>AI</sub>][^2]
-    - [TSE][^3]
+    - CSES[^1]
+    - ACM<sub>AI</sub>[^2]
+    - TSE[^3]
 2. Non-Technical Clubs:
     - Triton Gaming
     - Hiking Club
